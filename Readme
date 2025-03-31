@@ -1,5 +1,4 @@
-Chat Client-Server Application
-------------------------------------
+# TCP-Chat-Client-Server-Application
 
 Description:  This UDP-based chat application allows client to communicate with each other through a chat server.
 
